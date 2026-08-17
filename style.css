@@ -1,10 +1,10 @@
 :root {
-    --cor-primaria: #5c2d10e5;
-    --cor-secundaria: #492518f1;
-    --cor-fundo: #c1895b;
+    --cor-primaria: #f19635e5;
+    --cor-secundaria: #ff9d00f1;
+    --cor-fundo: #ffc67c;
     --cor-texto: #100902;
-    --cor-contraste: #352616cb;
-    --cor-botao: #8e5f23e5;
+    --cor-contraste: #020100cb;
+    --cor-botao: #f7a232e5;
 
     --fonte-texto: 'Segoe UI', sans-serif;
 }
