@@ -1,8 +1,8 @@
 :root {
     --cor-primaria: #652694;
-    --cor-secundaria: #8756f0;
+    --cor-secundaria: #b470f3;
     --cor-fundo: #ffffff;
-    --cor-texto: #1e043e;
+    --cor-texto: #411f5d;
     --cor-contraste: #f3eef7;
     --cor-botao: #f9f9f9;
 
@@ -14,12 +14,12 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #A6CEFE;
-    --cor-secundaria: #98caff;
-    --cor-fundo: #0f172a;
+    --cor-primaria: #e2a6fe;
+    --cor-secundaria: #d498ff;
+    --cor-fundo: #230f2a;
     --cor-texto: #ffffff;
-    --cor-contraste: #1e293b;
-    --cor-botao: #151428;
+    --cor-contraste: #301e3b;
+    --cor-botao: #3a1346;
 }
 
 .tema-escuro p {
